@@ -1,0 +1,9 @@
+[package]
+name = "rustflake"
+version = "0.1.0"
+authors = ["Brendan Nolan <bnolan@pivotal.io>"]
+edition = "2018"
+
+[dependencies]
+base64="0.10.1"
+interfaces="0.0.4"
